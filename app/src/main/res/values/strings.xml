@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PURPLED</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notification</string>
+    <string name="web_client_id">540098486651-km7hvv8ooe8guk39pf7s4e8treqqol1r.apps.googleusercontent.com</string>
+
+    <string name="facebook_app_id">1234</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+
+
+    <string-array name="genres">
+        <item>Hiphop</item>
+        <item>Country</item>
+        <item>Soul</item>
+        <item>Reggae</item>
+        <item>Afro</item>
+        <item>RNB</item>
+    </string-array>
+</resources>
